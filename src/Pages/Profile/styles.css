@@ -1,0 +1,106 @@
+.profile-container{
+    padding: 120px 0 0 90px
+}
+.profile-search-box{
+    width: 1251px;
+    height: 270px;
+    background: #E6F7FF;
+    border-radius: 16px;
+    /* padding: 65px 0 0 95px; */
+    margin-bottom: 55px;
+    
+}
+
+.profile-search-title{
+    width: 502px;
+    height: 46px;
+    font-family: Roboto;
+    font-style: bold;
+    font-weight: 500;
+    font-size: 38px;
+    line-height: 46px;
+    color: #262626;
+    text-transform: capitalize;
+    text-align: start;
+    margin-left: 95px;
+}
+
+.search-input{
+    width: 700px;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    text-align: start;
+    margin-left: 95px;
+    
+}
+.form-box{
+    width: 700px;
+}
+
+.profile-display-box{
+    width: 1251px;
+    height: 387px;
+    background: #F5F5F5;
+    border-radius: 8px;
+    display: flex;
+}
+.profile-avatar{
+    width: 285px;
+    height: 280px;
+    margin: 23px 0 0 30px;
+    background-size: cover;
+    background-position: center;
+}
+.profile-content{
+    display: flex;
+    width: 870px;
+    height: 22px;
+}
+
+.repo-top-info{
+    width: 190px;
+    height: 22px;
+    background: #FFF;
+    border: 1px solid #D9D9D9;
+    box-sizing: border-box;
+    border-radius: 5px;
+    margin:23px 10px 10px 10px
+}
+.profile-info-box{
+    width: 840px;
+    height: 247px;
+    background: #FFFFFF;
+    border: 1px solid #D9D9D9;
+    box-sizing: border-box;
+    border-radius: 6px;
+}
+
+.profile-info-title{
+    width: 534px;
+    height: 28px;
+    margin-left: 15px;
+    font-family: Roboto;
+    font-style: bold;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 28px;
+    display: flex;
+    align-items: center;
+    color: #1890FF;
+}
+
+.profile-info-details{
+    background: #FFFFFF;
+    border: 1px solid #D9D9D9;
+    box-sizing: border-box;
+    border-radius: 4px;
+    height: 40px;
+    width: 90%;
+    text-align: start;
+    padding-left: 10px;
+    margin:5px;
+}
